@@ -1,0 +1,4 @@
+baseURL = 'https://Yue-Sl.github.io/'
+locale = 'zh-cn'
+title = '晴乐小筑'
+theme = 'PaperMod'
