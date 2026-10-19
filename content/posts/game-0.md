@@ -43,7 +43,7 @@ cover:
 
 如果你也想尝试复刻，可以参考原作者的教程。我个人的项目导出文件已经打包，供大家测试：
 
-- [下载游戏压缩包 (ZIP)](/static/game-1/game.zip)
+- [下载游戏压缩包 (jaywalk.zip)](https://github.com/Yue-Sl/Yue-Sl.github.io)
 
 ---
 *感谢你的访问！如果你对我的项目感兴趣，或者有任何合作意向，欢迎随时通过邮件联系我。*
