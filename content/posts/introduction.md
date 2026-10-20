@@ -26,7 +26,7 @@ description: "一名热爱技术/设计的开发者，这是我的个人主页�
 
 ## 💡 关于这个网站
 
-这个网站是我使用 **Hugo** 静态网站生成器搭建的，主题采用了极简风格的 **PaperMod**。它完全免费托管在 **GitHub Pages** 上，并通过 **Cloudflare** 提供全球加速和防护。[教程](https://kujira-ko.github.io/)
+这个网站是我使用 **Hugo** 静态网站生成器搭建的，主题采用了极简风格的 **PaperMod**。它完全免费托管在 **GitHub Pages** 上，并通过 **Cloudflare** 提供全球加速和防护。[教程链接](https://kujira-ko.github.io/)
 
 在这个网站上，我会分享：
 1. **我的作品与项目**（你可以去作品集页面查看）
