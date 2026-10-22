@@ -71,7 +71,8 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.jpg"
+# 头像
+avatar: "avatar.webp"
 
 # 全局文章封面
 cover: # covers/huohuo1.jpg / true / rgb(255,117,117)
@@ -106,7 +107,7 @@ copyright:
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></div>
 
 
-
+# 脚页
 footer:
   since: 2026 # 在版权信息中显示的起始年份
   powered: true # 是否显示版权信息
@@ -117,15 +118,15 @@ footer:
     rotate: true
     mask: true # whether to use the images as a mask
 
-# Sidebar
-# sidebar: right # deprecated, use sidebar.position instead
+# 侧边栏
 sidebar:
   position: right
   menu: true  # whether to show the sidebar menu button, ignored on mobile devices
   article:
     show_common: true # whether to show common sidebar, ignored on mobile devices
 
-social:  #社交链接：配置侧边栏中的社交链接
+#社交链接：配置侧边栏中的社交链接
+social:
   github: https://github.com/Yue-Sl
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
@@ -155,7 +156,8 @@ social:  #社交链接：配置侧边栏中的社交链接
   # qq:
   # tiktok:
 
-widgets:  #侧边栏小部件：配置侧边栏小部件
+#侧边栏小部件：配置侧边栏小部件
+widgets:
   - category # 分类
   - tag # 标签
   - tagcloud # 标签云
